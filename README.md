@@ -50,7 +50,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 > These projects, while open source, are not showing signs of active maintenance (a release in the past year). Please contact us if you think otherwise! They might need your help, or have valuable content that could be reused.
 
-* [Quill](https://github.com/techx/quill) ⭐ 450 | 🐛 60 | 🌐 JavaScript | 📅 2022-12-22 - A registration system designed especially for large hackathons, maintained by HackMIT.
+* [Quill](https://github.com/techx/quill) ⭐ 451 | 🐛 60 | 🌐 JavaScript | 📅 2022-12-22 - A registration system designed especially for large hackathons, maintained by HackMIT.
 * [Hackfoldr](https://github.com/hackfoldr/hackfoldr) ⭐ 413 | 🐛 44 | 🌐 LiveScript | 📅 2021-12-21 - Organize gdoc and hackpad documents for hackathons.
 * [LaraHack](https://github.com/ScientificClubofESI/LaraHack) ⭐ 120 | 🐛 3 | 🌐 PHP | 📅 2023-02-02 - Administration system designed for hackathons and similar competitions.
 * [HackDash](https://github.com/impronunciable/hackdash) ⭐ 71 | 🐛 43 | 🌐 JavaScript | 📅 2023-09-27 - Organize hackaton ideas into a dashboard.
@@ -99,7 +99,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Hubot-RedisRed](https://github.com/Detry322/hubot-redisred) ⭐ 12 | 🐛 0 | 🌐 CoffeeScript | 📅 2016-09-16 - As well as [hubot-group](https://github.com/anishathalye/hubot-group) ⭐ 26 | 🐛 0 | 🌐 CoffeeScript | 📅 2023-03-05, [hubot-conf](https://github.com/anishathalye/hubot-conf) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-05, [hubot-shortcut](https://github.com/anishathalye/hubot-shortcut) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-05 by HackMIT are [Hubot](https://hubot.github.com/) plugins to make organizing easier.
 * [HaQR](https://github.com/drewthoennes/HaQR) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2020-03-29 (unmaintained) - A modular QR code management system for hackathons and other events.
 * [BoilerBot](https://github.com/BoilerMake/boilerbot) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-29 - Take control of your Slack by creating groups, assigning tasks, and more.
-* [Hackme](https://github.com/p1utoze/Hackme) ⭐ 0 | 🐛 6 | 🌐 Python | 📅 2026-01-26 (unmaintained?) - Minimalistic hackathon registration and participant status monitoring.
+* [Hackme](https://github.com/p1utoze/Hackme) ⭐ 0 | 🐛 6 | 🌐 Python | 📅 2026-02-09 (unmaintained?) - Minimalistic hackathon registration and participant status monitoring.
 * [Planning Kit](https://hackathon-planning-kit.org/) - Get information about how to design a hackathon that fits your needs.
 
 ### Promoting
@@ -121,7 +121,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,396 | 🐛 1 | 📅 2026-02-07 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,404 | 🐛 1 | 📅 2026-02-07 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 40 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -129,7 +129,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Evaluating
 
-* [Gavel](https://github.com/anishathalye/gavel) ⭐ 475 | 🐛 11 | 🌐 Python | 📅 2026-01-08 - A project expo judging system by HackMIT that uses fancy math to get good results.
+* [Gavel](https://github.com/anishathalye/gavel) ⭐ 475 | 🐛 10 | 🌐 Python | 📅 2026-01-08 - A project expo judging system by HackMIT that uses fancy math to get good results.
 * [Expo Table app](https://github.com/nealrs/expo#fork-destination-box) ⭐ 55 | 🐛 0 | 🌐 JavaScript | 📅 2017-06-20 - Create a Devpost Expo table frontend.
 * [Rankeer](https://github.com/Lucasbrunoferreira/rankeer) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2021-07-21 - An elaborate student project about management and evaluation of hackathons.
 * [Evaluation Manual](https://github.com/mayurah/Evaluation-Manual) ⭐ 2 | 🐛 0 | 📅 2017-06-02 - Older guidance sourced from Hacker Earth.
