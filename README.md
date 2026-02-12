@@ -21,7 +21,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 > These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities.
 
 * [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) ⭐ 104 | 🐛 144 | 🌐 JavaScript | 📅 2025-12-19 - Online platform for Democracy Lab projects.
-* [Dribdat](https://github.com/dribdat/dribdat) ⭐ 83 | 🐛 92 | 🌐 Python | 📅 2026-02-11 - **Hackathons for impact, based on open data and web standards.** `python` `js`
+* [Dribdat](https://github.com/dribdat/dribdat) ⭐ 82 | 🐛 92 | 🌐 Python | 📅 2026-02-11 - **Hackathons for impact, based on open data and web standards.** `python` `js`
 * [JunctionApp](https://github.com/hackjunction/JunctionApp) ⭐ 73 | 🐛 209 | 🌐 JavaScript | 📅 2025-07-01 -  All-in-one hackathon platform for organisers, maintained by Junction.
 * [Hibiscus](https://github.com/HackSC/hibiscus) ⭐ 53 | 🐛 5 | 🌐 TypeScript | 📅 2025-05-07 - An all-in-one, plug-and-play hackathon platform, created for HackSC.
 * [Hackerspace3](https://github.com/govhackaustralia/hackerspace3) ⭐ 23 | 🐛 53 | 🌐 Ruby | 📅 2025-09-03 - Competition Management System for the GovHack Hackathon. `ruby`
@@ -121,7 +121,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,412 | 🐛 1 | 📅 2026-02-07 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,415 | 🐛 1 | 📅 2026-02-07 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 40 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
