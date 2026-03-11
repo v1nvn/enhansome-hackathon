@@ -2,7 +2,7 @@
 
 A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons.
 
-> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 48 | 🐛 1 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,603 | 🐛 3 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
+> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 48 | 🐛 1 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,604 | 🐛 3 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
 
 To help improve this list, please check out the [Contributing](#contributing) section.
 
@@ -26,7 +26,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Hibiscus](https://github.com/HackSC/hibiscus) ⭐ 53 | 🐛 5 | 🌐 TypeScript | 📅 2025-05-07 - An all-in-one, plug-and-play hackathon platform, created for HackSC.
 * [Hackerspace3](https://github.com/govhackaustralia/hackerspace3) ⭐ 23 | 🐛 53 | 🌐 Ruby | 📅 2025-09-03 - Competition Management System for the GovHack Hackathon. `ruby`
 * [DeltaHacks Portal](https://github.com/deltahacks/portal) ⭐ 18 | 🐛 10 | 🌐 TypeScript | 📅 2026-01-13 - The attendee & admin portal for DeltaHacks 10, the hackathon for change.
-* [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-30 - Platform with Git-based Cloud Development Environment based on Next.js.
+* [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-30 - Platform with Git-based Cloud Development Environment based on Next.js.
 * [Halo](https://github.com/tcnj-acm/halo) ⭐ 10 | 🐛 3 | 🌐 HTML | 📅 2025-03-10 - Hackathon Management System built on Django.
 * [Hack the Back](https://github.com/hackthevalley/hack-the-back) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2026-03-10 - An elegant backend, with ready-made GraphQL and REST endpoints.
 * [Hackathon Management System](https://github.com/Teplitsa/hackathon) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2025-04-19 - A comprehensive WordPress plugin by [Teplitsa](https://hms.te-st.org/). `php`
@@ -121,7 +121,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,549 | 🐛 2 | 📅 2026-03-04 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,566 | 🐛 1 | 📅 2026-03-10 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 40 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -174,6 +174,6 @@ Contributions welcome! Please read the [guidelines](origin/contributing.md) firs
 
 ## Footnotes
 
-This repo is made with [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) ⭐ 373 | 🐛 7 | 🌐 JavaScript | 📅 2026-03-05 by Darshak Parikh and :heart: motivated by [awesome-hackathons](https://github.com/cconsidine/awesome-hackathons) by Camille Considine.
+This repo is made with [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) ⭐ 373 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-10 by Darshak Parikh and :heart: motivated by [awesome-hackathons](https://github.com/cconsidine/awesome-hackathons) by Camille Considine.
 
 Licensed [CC0 - Creative Commons Public Domain](origin/LICENSE)
