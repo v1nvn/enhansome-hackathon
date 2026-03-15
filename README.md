@@ -20,7 +20,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 > These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities.
 
-* [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) ⭐ 104 | 🐛 147 | 🌐 JavaScript | 📅 2026-03-05 - Online platform for Democracy Lab projects.
+* [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) ⭐ 104 | 🐛 148 | 🌐 JavaScript | 📅 2026-03-14 - Online platform for Democracy Lab projects.
 * [Dribdat](https://github.com/dribdat/dribdat) ⭐ 82 | 🐛 93 | 🌐 Python | 📅 2026-03-14 - **Hackathons for impact, based on open data and web standards.** `python` `js`
 * [JunctionApp](https://github.com/hackjunction/JunctionApp) ⭐ 73 | 🐛 209 | 🌐 JavaScript | 📅 2025-07-01 -  All-in-one hackathon platform for organisers, maintained by Junction.
 * [Hibiscus](https://github.com/HackSC/hibiscus) ⭐ 53 | 🐛 5 | 🌐 TypeScript | 📅 2025-05-07 - An all-in-one, plug-and-play hackathon platform, created for HackSC.
@@ -105,7 +105,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 ### Promoting
 
 * [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 492 | 🐛 4 | 🌐 HTML | 📅 2025-11-30 - A list of upcoming hackathons from around the world.
-* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 194 | 🐛 19 | 🌐 JavaScript | 📅 2026-03-13 by HackClub - A daily streak system & portfolio for your projects.
+* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 194 | 🐛 21 | 🌐 JavaScript | 📅 2026-03-14 by HackClub - A daily streak system & portfolio for your projects.
 * [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 160 | 🐛 11 | 🌐 JavaScript | 📅 2026-02-28 - A curated list of hackathons organized for high schoolers.
 * [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 74 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 * [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) ⚠️ Archived - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
@@ -121,7 +121,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,583 | 🐛 1 | 📅 2026-03-10 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,589 | 🐛 1 | 📅 2026-03-10 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 40 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
