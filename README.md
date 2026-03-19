@@ -2,7 +2,7 @@
 
 A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons.
 
-> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 49 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,606 | 🐛 3 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
+> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 49 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,607 | 🐛 3 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
 
 To help improve this list, please check out the [Contributing](#contributing) section.
 
@@ -21,8 +21,8 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 > These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities.
 
 * [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) ⭐ 104 | 🐛 148 | 🌐 JavaScript | 📅 2026-03-14 - Online platform for Democracy Lab projects.
-* [Dribdat](https://github.com/dribdat/dribdat) ⭐ 82 | 🐛 94 | 🌐 Python | 📅 2026-03-16 - **Hackathons for impact, based on open data and web standards.** `python` `js`
-* [JunctionApp](https://github.com/hackjunction/JunctionApp) ⭐ 73 | 🐛 209 | 🌐 JavaScript | 📅 2025-07-01 -  All-in-one hackathon platform for organisers, maintained by Junction.
+* [Dribdat](https://github.com/dribdat/dribdat) ⭐ 82 | 🐛 92 | 🌐 Python | 📅 2026-03-18 - **Hackathons for impact, based on open data and web standards.** `python` `js`
+* [JunctionApp](https://github.com/hackjunction/JunctionApp) ⭐ 73 | 🐛 209 | 🌐 JavaScript | 📅 2025-07-01 - All-in-one hackathon platform for organisers, maintained by Junction.
 * [Hibiscus](https://github.com/HackSC/hibiscus) ⭐ 53 | 🐛 5 | 🌐 TypeScript | 📅 2025-05-07 - An all-in-one, plug-and-play hackathon platform, created for HackSC.
 * [Hackerspace3](https://github.com/govhackaustralia/hackerspace3) ⭐ 23 | 🐛 53 | 🌐 Ruby | 📅 2025-09-03 - Competition Management System for the GovHack Hackathon. `ruby`
 * [DeltaHacks Portal](https://github.com/deltahacks/portal) ⭐ 18 | 🐛 10 | 🌐 TypeScript | 📅 2026-01-13 - The attendee & admin portal for DeltaHacks 10, the hackathon for change.
@@ -39,7 +39,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Agorize](https://github.com/agorize) ([www](https://www.agorize.com/)) - A French company that provides open innovation software.
 * [Devfolio](https://github.com/devfolioco) ([www](https://devfolio.co/)) - Supporting India's 'largest and fastest growing community of builders'.
 * [Devpost](https://github.com/challengepost) ([www](https://devpost.com)) - Recognizable U.S. company, whose customers market developer tools and jobs to the community.
-* [HackHQ](https://hackhq.io/) - All-in-one hackathon management platform for internal corporate hackathons with registration, submissions, judging, voting, and live results in 30 minutes.
+* [HackHQ](https://hackhq.io/) - All-in-one hackathon and competition platform with built-in registration, submissions, judging, and live results. No account required for participants or judges. Launch your event in 30 minutes.
 * [HackHub](https://github.com/hackhub-team) ([www](https://www.hackhub.com/event), [docs](https://help.hackhub.com/)) - Canadian company with a featureful event and talent scouting app.
 * [Hackworks](https://github.com/hackworks) ([docs](https://help.hackworks.com/knowledge)) - Open innovation challenge platform from experienced event organizers in Canada.
 * [Nosu](https://www.nosu.io/) (formerly Sprint.dev) - AI tools to manage hackathons, aiming to upend tech recruiting by quantifying hackathon performance.
@@ -53,7 +53,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Quill](https://github.com/techx/quill) ⭐ 450 | 🐛 60 | 🌐 JavaScript | 📅 2022-12-22 - A registration system designed especially for large hackathons, maintained by HackMIT.
 * [Hackfoldr](https://github.com/hackfoldr/hackfoldr) ⭐ 413 | 🐛 44 | 🌐 LiveScript | 📅 2021-12-21 - Organize gdoc and hackpad documents for hackathons.
 * [LaraHack](https://github.com/ScientificClubofESI/LaraHack) ⭐ 120 | 🐛 3 | 🌐 PHP | 📅 2023-02-02 - Administration system designed for hackathons and similar competitions.
-* [HackDash](https://github.com/impronunciable/hackdash) ⭐ 71 | 🐛 43 | 🌐 JavaScript | 📅 2023-09-27 - Organize hackaton ideas into a dashboard.
+* [HackDash](https://github.com/impronunciable/hackdash) ⭐ 71 | 🐛 43 | 🌐 JavaScript | 📅 2023-09-27 - Organize hackathon ideas into a dashboard.
 * [project-hackathon](https://github.com/pheralb/project-hackathon) ⭐ 58 | 🐛 1 | 🌐 TypeScript | 📅 2023-08-11 - Hackathon management tool created at Hackafor. `typescript`
 * [Nucleus](https://github.com/hacktx/nucleus) ⭐ 52 | 🐛 5 | 🌐 Hack | 📅 2016-03-25 - Hackathon application system that integrates with MyMLH, Slack and more from HackTX.
 * [HackPortal](https://github.com/acmutd/hackportal) ⭐ 49 | 🐛 28 | 🌐 TypeScript | 📅 2025-01-27 - A platform from HackUTD for user-friendly event management.
@@ -106,7 +106,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 * [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 492 | 🐛 4 | 🌐 HTML | 📅 2025-11-30 - A list of upcoming hackathons from around the world.
 * [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 194 | 🐛 19 | 🌐 JavaScript | 📅 2026-03-16 by HackClub - A daily streak system & portfolio for your projects.
-* [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 160 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-16 - A curated list of hackathons organized for high schoolers.
+* [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 160 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-18 - A curated list of hackathons organized for high schoolers.
 * [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 74 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 * [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) ⚠️ Archived - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
 * [Upcoding](https://github.com/sahanmndl/UpCoding-Web) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-13 - Get event details of competitive programming contests, hackathons etc.
@@ -115,13 +115,13 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 * [Dridbot](https://github.com/dribdat/dridbot) ⭐ 1 | 🐛 5 | 🌐 CoffeeScript | 📅 2024-11-19 - Multiplatform chatbot, for pepping up the experience for participants and organizers of hackathons.
 * [volunTree](https://github.com/Anant1902/volunTree) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-10 - Volunteer Management System for DSC Hack4Good Hackathon.
-* [Steps to Building an Effective Team](https://hr.berkeley.edu/hr-network/central-guide-managing-hr/managing-hr/interaction/team-building/steps) - A bullet-point list from UC Berkley.
+* [Steps to Building an Effective Team](https://hr.berkeley.edu/hr-network/central-guide-managing-hr/managing-hr/interaction/team-building/steps) - A bullet-point list from UC Berkeley.
 * [Team Builder for MS Teams](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/hackathon-team-builder-a-teams-tab-application/ba-p/3334437) - Sample app that allows hackathon participants to form a team based on challenges they want to tackle.
 * [Team building activities](https://www.sessionlab.com/blog/team-building-activities/) - 64 fun ideas from SessionLab.
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,595 | 🐛 1 | 📅 2026-03-10 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,603 | 🐛 1 | 📅 2026-03-10 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 40 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -143,7 +143,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 > These are helpful handbooks, literature collections and articles that will give you some orientation, and help you to prepare a plan for organizing your event.
 
-* [Hackday Manifesto](https://github.com/hackdaymanifesto/site) ⭐ 421 | 🐛 11 | 🌐 HTML | 📅 2025-01-31 - How to make your event a success, and avoid common pitfalls.
+* [Hackday Manifesto](https://github.com/hackdaymanifesto/site) ⭐ 422 | 🐛 11 | 🌐 HTML | 📅 2025-01-31 - How to make your event a success, and avoid common pitfalls.
 * [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) ⭐ 341 | 🐛 17 | 🌐 CSS | 📅 2026-03-09 - Guide from Major League Hacking, popular at US schools.
 * [Hackathon.guide](https://github.com/JoshData/hackathon.guide) ⭐ 178 | 🐛 3 | 🌐 HTML | 📅 2020-06-07 - A step-by-step guide by seasoned organizer Joshua Tauberer.
 * [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) ⭐ 26 | 🐛 0 | 🌐 PHP | 📅 2015-12-16 - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups) ⭐ 217 | 🐛 5 | 📅 2017-11-15.
@@ -153,7 +153,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [GitHub Guide to Hackathons](https://hackathons.github.com/) - Join a community connected by code, with tips & tricks from GitHub.
 * [Guides et documentation data.gouv.fr](https://guides.data.gouv.fr/autres-ressources-utiles/guide-du-participant-au-hackathon-meteo/ressources-du-hackathon) - (In French) Documentation for open government data hackathon organizers.
 * [Hackathon Guidelines - Opendata.ch](https://opendata.ch/guidelines) - Principles for hackathons from the Swiss open data community.
-* [Hackathon Toolbox](https://hackathontoolbox.com/) - Suggests technical tools by stage of hackathon development.
+* [HackHQ Planning Guide](https://hackhq.io/planning-guide) - A 30-day step-by-step guide covering budget, team formation, judging criteria, communication, and event day logistics.
 * [Hack4TheFuture Guidebook](https://hack4thefuture.eu/Guidebook_Hack4theFuture_02.pdf) - from an EU project, a book on running international events.
 * [hack.athon.uk](https://hack.athon.uk/) - A wiki for helping hackers get into hackathons and organise them!
 * [Hack Tools](https://hack-tools.github.io/) - Theodoros Ploumis has great advice for attendees, evaluators and organizers.
