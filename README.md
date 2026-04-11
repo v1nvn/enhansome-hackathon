@@ -2,7 +2,7 @@
 
 A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons.
 
-> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 49 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,630 | 🐛 5 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
+> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 49 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,631 | 🐛 5 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
 
 To help improve this list, please check out the [Contributing](#contributing) section.
 
@@ -54,9 +54,9 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Hackfoldr](https://github.com/hackfoldr/hackfoldr) ⭐ 413 | 🐛 44 | 🌐 LiveScript | 📅 2021-12-21 - Organize gdoc and hackpad documents for hackathons.
 * [LaraHack](https://github.com/ScientificClubofESI/LaraHack) ⭐ 120 | 🐛 3 | 🌐 PHP | 📅 2023-02-02 - Administration system designed for hackathons and similar competitions.
 * [HackDash](https://github.com/impronunciable/hackdash) ⭐ 70 | 🐛 43 | 🌐 JavaScript | 📅 2023-09-27 - Organize hackathon ideas into a dashboard.
-* [project-hackathon](https://github.com/pheralb/project-hackathon) ⭐ 58 | 🐛 1 | 🌐 TypeScript | 📅 2023-08-11 - Hackathon management tool created at Hackafor. `typescript`
+* [project-hackathon](https://github.com/pheralb/project-hackathon) ⭐ 59 | 🐛 1 | 🌐 TypeScript | 📅 2023-08-11 - Hackathon management tool created at Hackafor. `typescript`
 * [Nucleus](https://github.com/hacktx/nucleus) ⭐ 52 | 🐛 5 | 🌐 Hack | 📅 2016-03-25 - Hackathon application system that integrates with MyMLH, Slack and more from HackTX.
-* [HackPortal](https://github.com/acmutd/hackportal) ⭐ 49 | 🐛 28 | 🌐 TypeScript | 📅 2025-01-27 - A platform from HackUTD for user-friendly event management.
+* [HackPortal](https://github.com/acmutd/hackportal) ⭐ 50 | 🐛 28 | 🌐 TypeScript | 📅 2025-01-27 - A platform from HackUTD for user-friendly event management.
 * [HackathonManager](https://github.com/codeRIT/hackathon-manager) ⚠️ Archived - Hackathon registration & logistics, compatible with MyMLH.
 * [Pepper](https://github.com/rohitdatta/pepper) ⭐ 28 | 🐛 13 | 🌐 Python | 📅 2022-12-08 - Designed to work with MyMLH for sign in.
 * [ApplicantAtlas](https://github.com/ApplicantAtlas/ApplicantAtlas) ⭐ 24 | 🐛 23 | 🌐 TypeScript | 📅 2024-08-27 - Made for managing applicants, RSVPs and other communications.
@@ -121,7 +121,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,730 | 🐛 2 | 📅 2026-04-03 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,734 | 🐛 2 | 📅 2026-04-03 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 40 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
