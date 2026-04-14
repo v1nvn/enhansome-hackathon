@@ -52,7 +52,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 * [Quill](https://github.com/techx/quill) ⭐ 450 | 🐛 60 | 🌐 JavaScript | 📅 2022-12-22 - A registration system designed especially for large hackathons, maintained by HackMIT.
 * [Hackfoldr](https://github.com/hackfoldr/hackfoldr) ⭐ 413 | 🐛 44 | 🌐 LiveScript | 📅 2021-12-21 - Organize gdoc and hackpad documents for hackathons.
-* [LaraHack](https://github.com/ScientificClubofESI/LaraHack) ⭐ 120 | 🐛 3 | 🌐 PHP | 📅 2023-02-02 - Administration system designed for hackathons and similar competitions.
+* [LaraHack](https://github.com/ScientificClubofESI/LaraHack) ⭐ 121 | 🐛 3 | 🌐 PHP | 📅 2023-02-02 - Administration system designed for hackathons and similar competitions.
 * [HackDash](https://github.com/impronunciable/hackdash) ⭐ 70 | 🐛 43 | 🌐 JavaScript | 📅 2023-09-27 - Organize hackathon ideas into a dashboard.
 * [project-hackathon](https://github.com/pheralb/project-hackathon) ⭐ 59 | 🐛 1 | 🌐 TypeScript | 📅 2023-08-11 - Hackathon management tool created at Hackafor. `typescript`
 * [Nucleus](https://github.com/hacktx/nucleus) ⭐ 52 | 🐛 5 | 🌐 Hack | 📅 2016-03-25 - Hackathon application system that integrates with MyMLH, Slack and more from HackTX.
@@ -99,14 +99,14 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Hubot-RedisRed](https://github.com/Detry322/hubot-redisred) ⭐ 12 | 🐛 0 | 🌐 CoffeeScript | 📅 2016-09-16 - As well as [hubot-group](https://github.com/anishathalye/hubot-group) ⭐ 26 | 🐛 0 | 🌐 CoffeeScript | 📅 2023-03-05, [hubot-conf](https://github.com/anishathalye/hubot-conf) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-05, [hubot-shortcut](https://github.com/anishathalye/hubot-shortcut) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-05 by HackMIT are [Hubot](https://hubot.github.com/) plugins to make organizing easier.
 * [HaQR](https://github.com/drewthoennes/HaQR) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2020-03-29 (unmaintained) - A modular QR code management system for hackathons and other events.
 * [BoilerBot](https://github.com/BoilerMake/boilerbot) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-29 - Take control of your Slack by creating groups, assigning tasks, and more.
-* [Hackme](https://github.com/p1utoze/Hackme) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-04-06 (unmaintained?) - Minimalistic hackathon registration and participant status monitoring.
+* [Hackme](https://github.com/p1utoze/Hackme) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-04-13 (unmaintained?) - Minimalistic hackathon registration and participant status monitoring.
 * [Planning Kit](https://hackathon-planning-kit.org/) - Get information about how to design a hackathon that fits your needs.
 
 ### Promoting
 
 * [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 492 | 🐛 0 | 🌐 HTML | 📅 2026-04-09 - A list of upcoming hackathons from around the world.
-* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 194 | 🐛 19 | 🌐 JavaScript | 📅 2026-04-12 by HackClub - A daily streak system & portfolio for your projects.
-* [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 161 | 🐛 5 | 🌐 JavaScript | 📅 2026-04-11 - A curated list of hackathons organized for high schoolers.
+* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 194 | 🐛 23 | 🌐 JavaScript | 📅 2026-04-13 by HackClub - A daily streak system & portfolio for your projects.
+* [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 161 | 🐛 8 | 🌐 JavaScript | 📅 2026-04-13 - A curated list of hackathons organized for high schoolers.
 * [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 75 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 * [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) ⚠️ Archived - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
 * [Upcoding](https://github.com/sahanmndl/UpCoding-Web) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-13 - Get event details of competitive programming contests, hackathons etc.
@@ -121,7 +121,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,740 | 🐛 2 | 📅 2026-04-03 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,750 | 🐛 1 | 📅 2026-04-03 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 40 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
