@@ -97,7 +97,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 ### Organizing
 
 * [Hubot-RedisRed](https://github.com/Detry322/hubot-redisred) ⭐ 12 | 🐛 0 | 🌐 CoffeeScript | 📅 2016-09-16 - As well as [hubot-group](https://github.com/anishathalye/hubot-group) ⭐ 26 | 🐛 0 | 🌐 CoffeeScript | 📅 2023-03-05, [hubot-conf](https://github.com/anishathalye/hubot-conf) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-05, [hubot-shortcut](https://github.com/anishathalye/hubot-shortcut) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-05 by HackMIT are [Hubot](https://hubot.github.com/) plugins to make organizing easier.
-* [HaQR](https://github.com/drewthoennes/HaQR) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2020-03-29 (unmaintained) - A modular QR code management system for hackathons and other events.
+* [HaQR](https://github.com/drewthoennes/HaQR) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2020-03-29 (unmaintained) - A modular QR code management system for hackathons and other events.
 * [BoilerBot](https://github.com/BoilerMake/boilerbot) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-29 - Take control of your Slack by creating groups, assigning tasks, and more.
 * [Hackme](https://github.com/p1utoze/Hackme) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-04-13 (unmaintained?) - Minimalistic hackathon registration and participant status monitoring.
 * [Planning Kit](https://hackathon-planning-kit.org/) - Get information about how to design a hackathon that fits your needs.
@@ -105,7 +105,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 ### Promoting
 
 * [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 492 | 🐛 0 | 🌐 HTML | 📅 2026-04-09 - A list of upcoming hackathons from around the world.
-* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 194 | 🐛 23 | 🌐 JavaScript | 📅 2026-04-13 by HackClub - A daily streak system & portfolio for your projects.
+* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 194 | 🐛 18 | 🌐 JavaScript | 📅 2026-04-14 by HackClub - A daily streak system & portfolio for your projects.
 * [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 161 | 🐛 8 | 🌐 JavaScript | 📅 2026-04-13 - A curated list of hackathons organized for high schoolers.
 * [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 75 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 * [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) ⚠️ Archived - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
@@ -121,7 +121,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,750 | 🐛 1 | 📅 2026-04-03 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,759 | 🐛 1 | 📅 2026-04-03 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 40 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -144,7 +144,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 > These are helpful handbooks, literature collections and articles that will give you some orientation, and help you to prepare a plan for organizing your event.
 
 * [Hackday Manifesto](https://github.com/hackdaymanifesto/site) ⭐ 422 | 🐛 11 | 🌐 HTML | 📅 2025-01-31 - How to make your event a success, and avoid common pitfalls.
-* [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) ⭐ 348 | 🐛 16 | 🌐 CSS | 📅 2026-03-19 - Guide from Major League Hacking, popular at US schools.
+* [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) ⭐ 348 | 🐛 16 | 🌐 CSS | 📅 2026-04-14 - Guide from Major League Hacking, popular at US schools.
 * [Hackathon.guide](https://github.com/JoshData/hackathon.guide) ⭐ 178 | 🐛 3 | 🌐 HTML | 📅 2020-06-07 - A step-by-step guide by seasoned organizer Joshua Tauberer.
 * [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) ⭐ 26 | 🐛 0 | 🌐 PHP | 📅 2015-12-16 - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups) ⭐ 217 | 🐛 5 | 📅 2017-11-15.
 * [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) ⭐ 13 | 🐛 6 | 🌐 TeX | 📅 2021-07-13 - (In German) Printed guide for municipalities.
