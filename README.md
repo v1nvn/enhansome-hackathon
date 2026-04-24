@@ -2,7 +2,7 @@
 
 A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons.
 
-> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 50 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,643 | 🐛 3 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
+> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 50 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,644 | 🐛 5 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
 
 To help improve this list, please check out the [Contributing](#contributing) section.
 
@@ -20,7 +20,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 > These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities.
 
-* [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) ⭐ 105 | 🐛 154 | 🌐 JavaScript | 📅 2026-04-15 - Online platform for Democracy Lab projects.
+* [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) ⭐ 105 | 🐛 154 | 🌐 JavaScript | 📅 2026-04-23 - Online platform for Democracy Lab projects.
 * [Dribdat](https://github.com/dribdat/dribdat) ⭐ 85 | 🐛 90 | 🌐 Python | 📅 2026-04-19 - **Hackathons for impact, based on open data and web standards.** `python` `js`
 * [JunctionApp](https://github.com/hackjunction/JunctionApp) ⭐ 74 | 🐛 209 | 🌐 JavaScript | 📅 2025-07-01 - All-in-one hackathon platform for organisers, maintained by Junction.
 * [Hibiscus](https://github.com/HackSC/hibiscus) ⭐ 53 | 🐛 5 | 🌐 TypeScript | 📅 2025-05-07 - An all-in-one, plug-and-play hackathon platform, created for HackSC.
@@ -121,7 +121,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,798 | 🐛 1 | 📅 2026-04-03 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,809 | 🐛 1 | 📅 2026-04-03 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 40 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -174,6 +174,6 @@ Contributions welcome! Please read the [guidelines](origin/contributing.md) firs
 
 ## Footnotes
 
-This repo is made with [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) ⭐ 371 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-10 by Darshak Parikh and :heart: motivated by [awesome-hackathons](https://github.com/cconsidine/awesome-hackathons) by Camille Considine.
+This repo is made with [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) ⭐ 373 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-10 by Darshak Parikh and :heart: motivated by [awesome-hackathons](https://github.com/cconsidine/awesome-hackathons) by Camille Considine.
 
 Licensed [CC0 - Creative Commons Public Domain](origin/LICENSE)
