@@ -106,7 +106,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 * [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 492 | 🐛 0 | 🌐 HTML | 📅 2026-04-09 - A list of upcoming hackathons from around the world.
 * [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 193 | 🐛 19 | 🌐 JavaScript | 📅 2026-04-21 by HackClub - A daily streak system & portfolio for your projects.
-* [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 161 | 🐛 8 | 🌐 JavaScript | 📅 2026-04-21 - A curated list of hackathons organized for high schoolers.
+* [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 161 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-24 - A curated list of hackathons organized for high schoolers.
 * [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 75 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 * [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) ⚠️ Archived - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
 * [Upcoding](https://github.com/sahanmndl/UpCoding-Web) ⭐ 14 | 🐛 3 | 🌐 JavaScript | 📅 2023-10-13 - Get event details of competitive programming contests, hackathons etc.
@@ -121,7 +121,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,809 | 🐛 1 | 📅 2026-04-03 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,812 | 🐛 1 | 📅 2026-04-03 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 40 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -146,7 +146,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 * [Hackday Manifesto](https://github.com/hackdaymanifesto/site) ⭐ 423 | 🐛 11 | 🌐 HTML | 📅 2025-01-31 - How to make your event a success, and avoid common pitfalls.
 * [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) ⭐ 352 | 🐛 16 | 🌐 CSS | 📅 2026-04-20 - Guide from Major League Hacking, popular at US schools.
 * [Hackathon.guide](https://github.com/JoshData/hackathon.guide) ⭐ 179 | 🐛 3 | 🌐 HTML | 📅 2020-06-07 - A step-by-step guide by seasoned organizer Joshua Tauberer.
-* [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) ⭐ 26 | 🐛 0 | 🌐 PHP | 📅 2015-12-16 - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups) ⭐ 218 | 🐛 5 | 📅 2017-11-15.
+* [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) ⭐ 26 | 🐛 0 | 🌐 PHP | 📅 2015-12-16 - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups) ⭐ 217 | 🐛 5 | 📅 2017-11-15.
 * [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) ⭐ 13 | 🐛 6 | 🌐 TeX | 📅 2021-07-13 - (In German) Printed guide for municipalities.
 * [OpenHatch In-Person Event Handbook](https://github.com/openhatch/in-person-event-handbook) ⭐ 13 | 🐛 7 | 🌐 Python | 📅 2019-05-28 - For getting your open source project ready for new contributors.
 * [Dribdat wiki](https://github.com/dribdat/docs/wiki) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-03-26 - Community sourced guidelines from an open source project.
@@ -174,6 +174,6 @@ Contributions welcome! Please read the [guidelines](origin/contributing.md) firs
 
 ## Footnotes
 
-This repo is made with [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) ⭐ 373 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-10 by Darshak Parikh and :heart: motivated by [awesome-hackathons](https://github.com/cconsidine/awesome-hackathons) by Camille Considine.
+This repo is made with [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) ⭐ 374 | 🐛 4 | 🌐 JavaScript | 📅 2026-04-10 by Darshak Parikh and :heart: motivated by [awesome-hackathons](https://github.com/cconsidine/awesome-hackathons) by Camille Considine.
 
 Licensed [CC0 - Creative Commons Public Domain](origin/LICENSE)
