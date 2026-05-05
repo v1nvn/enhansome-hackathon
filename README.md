@@ -121,7 +121,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,861 | 🐛 1 | 📅 2026-04-26 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,863 | 🐛 1 | 📅 2026-04-26 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 40 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
@@ -143,7 +143,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 > These are helpful handbooks, literature collections and articles that will give you some orientation, and help you to prepare a plan for organizing your event.
 
-* [Hackday Manifesto](https://github.com/hackdaymanifesto/site) ⭐ 423 | 🐛 11 | 🌐 HTML | 📅 2025-01-31 - How to make your event a success, and avoid common pitfalls.
+* [Hackday Manifesto](https://github.com/hackdaymanifesto/site) ⭐ 424 | 🐛 11 | 🌐 HTML | 📅 2025-01-31 - How to make your event a success, and avoid common pitfalls.
 * [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) ⭐ 352 | 🐛 16 | 🌐 CSS | 📅 2026-04-20 - Guide from Major League Hacking, popular at US schools.
 * [Hackathon.guide](https://github.com/JoshData/hackathon.guide) ⭐ 179 | 🐛 3 | 🌐 HTML | 📅 2020-06-07 - A step-by-step guide by seasoned organizer Joshua Tauberer.
 * [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) ⭐ 26 | 🐛 0 | 🌐 PHP | 📅 2015-12-16 - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups) ⭐ 216 | 🐛 5 | 📅 2017-11-15.
