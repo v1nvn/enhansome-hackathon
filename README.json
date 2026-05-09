@@ -15,7 +15,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-04-23T20:21:12Z",
+            "last_commit": "2026-05-08T07:06:52Z",
             "owner": "DemocracyLab",
             "repo": "CivicTechExchange",
             "stars": 105
@@ -565,10 +565,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-05T16:59:45Z",
+            "last_commit": "2026-05-09T02:27:40Z",
             "owner": "hackclub",
             "repo": "scrapbook",
-            "stars": 193
+            "stars": 192
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-04-26T20:52:35Z",
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 20872
+            "stars": 20877
           }
         },
         {
@@ -769,7 +769,7 @@
             "last_commit": "2026-02-20T20:50:20Z",
             "owner": "anishathalye",
             "repo": "gavel",
-            "stars": 479
+            "stars": 480
           }
         },
         {
@@ -987,7 +987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:53:12.754Z",
+    "last_updated": "2026-05-09T05:21:06.762Z",
     "original_repository": "dribdat/awesome-hackathon",
     "source_repository": "v1nvn/enhansome-hackathon",
     "source_repository_description": null,
