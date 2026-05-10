@@ -20,7 +20,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 > These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities.
 
-* [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) ⭐ 105 | 🐛 154 | 🌐 JavaScript | 📅 2026-05-08 - Online platform for Democracy Lab projects.
+* [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) ⭐ 105 | 🐛 156 | 🌐 JavaScript | 📅 2026-05-09 - Online platform for Democracy Lab projects.
 * [Dribdat](https://github.com/dribdat/dribdat) ⭐ 85 | 🐛 91 | 🌐 Python | 📅 2026-05-01 - **Hackathons for impact, based on open data and web standards.** `python` `js`
 * [JunctionApp](https://github.com/hackjunction/JunctionApp) ⭐ 74 | 🐛 209 | 🌐 JavaScript | 📅 2025-07-01 - All-in-one hackathon platform for organisers, maintained by Junction.
 * [Hibiscus](https://github.com/HackSC/hibiscus) ⭐ 53 | 🐛 5 | 🌐 TypeScript | 📅 2025-05-07 - An all-in-one, plug-and-play hackathon platform, created for HackSC.
@@ -50,7 +50,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 > These projects, while open source, are not showing signs of active maintenance (a release in the past year). Please contact us if you think otherwise! They might need your help, or have valuable content that could be reused.
 
-* [Quill](https://github.com/techx/quill) ⭐ 451 | 🐛 60 | 🌐 JavaScript | 📅 2022-12-22 - A registration system designed especially for large hackathons, maintained by HackMIT.
+* [Quill](https://github.com/techx/quill) ⭐ 452 | 🐛 60 | 🌐 JavaScript | 📅 2022-12-22 - A registration system designed especially for large hackathons, maintained by HackMIT.
 * [Hackfoldr](https://github.com/hackfoldr/hackfoldr) ⭐ 413 | 🐛 44 | 🌐 LiveScript | 📅 2021-12-21 - Organize gdoc and hackpad documents for hackathons.
 * [LaraHack](https://github.com/ScientificClubofESI/LaraHack) ⭐ 121 | 🐛 3 | 🌐 PHP | 📅 2023-02-02 - Administration system designed for hackathons and similar competitions.
 * [HackDash](https://github.com/impronunciable/hackdash) ⭐ 70 | 🐛 43 | 🌐 JavaScript | 📅 2023-09-27 - Organize hackathon ideas into a dashboard.
@@ -122,7 +122,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 
 ### Coaching
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,877 | 🐛 1 | 📅 2026-04-26 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 20,886 | 🐛 1 | 📅 2026-04-26 - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 * [HELPq](https://github.com/ehzhang/helpq) ⭐ 268 | 🐛 12 | 🌐 JavaScript | 📅 2020-02-11 - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 * [Hangar](https://github.com/AmericanAirlines/Hangar) ⭐ 40 | 🐛 5 | 🌐 TypeScript | 📅 2024-05-02 - A Slack bot to help with judging and coaching at hackathons.
 * [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).

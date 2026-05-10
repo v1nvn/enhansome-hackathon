@@ -15,7 +15,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-08T07:06:52Z",
+            "last_commit": "2026-05-09T16:14:16Z",
             "owner": "DemocracyLab",
             "repo": "CivicTechExchange",
             "stars": 105
@@ -385,7 +385,7 @@
             "last_commit": "2022-12-22T03:34:31Z",
             "owner": "techx",
             "repo": "quill",
-            "stars": 451
+            "stars": 452
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-04-26T20:52:35Z",
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 20877
+            "stars": 20886
           }
         },
         {
@@ -987,7 +987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:21:06.762Z",
+    "last_updated": "2026-05-10T05:36:41.670Z",
     "original_repository": "dribdat/awesome-hackathon",
     "source_repository": "v1nvn/enhansome-hackathon",
     "source_repository_description": null,
