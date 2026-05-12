@@ -2,7 +2,7 @@
 
 A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons.
 
-> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 51 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,659 | 🐛 5 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
+> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! See also 🕶️[awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons) ⭐ 51 | 🐛 0 | 📅 2024-05-24, 🕶️[awesome-hackathon-projects](https://github.com/Olanetsoft/awesome-hackathon-projects) ⭐ 1,660 | 🐛 5 | 📅 2025-05-20 and 🕶️[awesome-hackathon-starters](https://github.com/geekcamp-ph/awesome-hackathon-starters/issues/12) ⭐ 37 | 🐛 1 | 📅 2016-07-17. Are you interested in the *science* of hackathons? Join our new 📚 [Zotero library](https://www.zotero.org/groups/5538025/awesome_hackathons).
 
 To help improve this list, please check out the [Contributing](#contributing) section.
 
@@ -105,7 +105,7 @@ By *awesome 🕶️ hackathon platforms*, we mean web or mobile applications tha
 ### Promoting
 
 * [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) ⭐ 491 | 🐛 0 | 🌐 HTML | 📅 2026-04-09 - A list of upcoming hackathons from around the world.
-* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 192 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-09 by HackClub - A daily streak system & portfolio for your projects.
+* [Scrapbook](https://github.com/hackclub/scrapbook) ⭐ 192 | 🐛 24 | 🌐 JavaScript | 📅 2026-05-11 by HackClub - A daily streak system & portfolio for your projects.
 * [Hack Club](https://github.com/hackclub/hackathons#readme) ⭐ 161 | 🐛 5 | 🌐 JavaScript | 📅 2026-04-27 - A curated list of hackathons organized for high schoolers.
 * [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) ⭐ 76 | 🐛 1 | 📅 2017-10-12 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 * [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) ⚠️ Archived - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).

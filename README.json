@@ -565,7 +565,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-09T02:27:40Z",
+            "last_commit": "2026-05-11T22:52:51Z",
             "owner": "hackclub",
             "repo": "scrapbook",
             "stars": 192
@@ -987,7 +987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T05:58:03.020Z",
+    "last_updated": "2026-05-12T05:37:36.319Z",
     "original_repository": "dribdat/awesome-hackathon",
     "source_repository": "v1nvn/enhansome-hackathon",
     "source_repository_description": null,
