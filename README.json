@@ -565,7 +565,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-11T22:52:51Z",
+            "last_commit": "2026-05-12T14:49:26Z",
             "owner": "hackclub",
             "repo": "scrapbook",
             "stars": 192
@@ -660,7 +660,7 @@
             "last_commit": "2026-04-26T20:52:35Z",
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 20888
+            "stars": 20893
           }
         },
         {
@@ -987,7 +987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:37:36.319Z",
+    "last_updated": "2026-05-13T05:48:14.059Z",
     "original_repository": "dribdat/awesome-hackathon",
     "source_repository": "v1nvn/enhansome-hackathon",
     "source_repository_description": null,
