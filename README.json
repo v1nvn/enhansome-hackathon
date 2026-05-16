@@ -568,7 +568,7 @@
             "last_commit": "2026-05-13T09:02:07Z",
             "owner": "hackclub",
             "repo": "scrapbook",
-            "stars": 192
+            "stars": 191
           }
         },
         {
@@ -657,10 +657,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-04-26T20:52:35Z",
+            "last_commit": "2026-05-15T17:00:09Z",
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 20901
+            "stars": 20909
           }
         },
         {
@@ -769,7 +769,7 @@
             "last_commit": "2026-02-20T20:50:20Z",
             "owner": "anishathalye",
             "repo": "gavel",
-            "stars": 481
+            "stars": 483
           }
         },
         {
@@ -987,7 +987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T05:54:15.622Z",
+    "last_updated": "2026-05-16T05:26:23.043Z",
     "original_repository": "dribdat/awesome-hackathon",
     "source_repository": "v1nvn/enhansome-hackathon",
     "source_repository_description": null,
